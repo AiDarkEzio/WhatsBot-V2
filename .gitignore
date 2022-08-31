@@ -1,0 +1,18 @@
+
+# modules
+node_modules/
+
+# lock files
+*-lock.json
+yarn.lock
+
+commands/
+
+package-lock.json
+
+.env 
+
+test.js
+
+good.js
+
