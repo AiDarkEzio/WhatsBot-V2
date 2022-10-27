@@ -10,7 +10,7 @@
 => Whats Bot - Dark_Ezio.
 // ════════════════════════════ */
 
-const { delay } = require("Wa-Web");
+const { delay } = require("@adiwajshing/Baileys");
 const ezio = require("../events");
 const { isUrl } = require("../lib/Function");
 const lang = ezio.getString("whats_bot");
