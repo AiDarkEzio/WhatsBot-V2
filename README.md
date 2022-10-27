@@ -1,6 +1,6 @@
 # Whats-Bot-MD_V2
 
- <p align="center">
+<p align="center">
     <img src="https://raw.githubusercontent.com/AiDarkEzio/Whats-Bot/master/GojoMedia/D_E-DPC.jpg" alt="ADE" width="350" high="350" border="5"/>
 </p>
 
@@ -16,7 +16,7 @@
 2. You will get a long text that needs after 4th step ().
 3. Fork Repo && Replase Session.
 4. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
-5. Now <https://heroku.com/deploy?template=Your_Fork_Repo_url> and Follow.
+5. Now [https://heroku.com/deploy?template=Your_Fork_Repo_url](https://heroku.com/deploy?template=Your_Fork_Repo_url) and Follow.
 
 ## ReadMe
 
@@ -30,6 +30,10 @@
 - [![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://replit.com/@Subadrabro/WhatsBot-QR?v=1)
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=)
 
+### Discussions
+
+- [*Write bugs & Your ideas.*](https://github.com/AiDarkEzio/WhatsBot-V2/discussions)
+
 ## Languages
 
 1. [`Node-Js`](https://nodejs.org/)
@@ -42,8 +46,8 @@
 
 ## Thanks To
 
-- [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys 'main lib')
-- [`Dark Ezio`](https://github.com/Alien-Alfa 'Cerater')
+- [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys "main lib")
+- [`Dark Ezio`](https://github.com/Alien-Alfa "Cerater")
 - [`Alien-Alfa`](https://github.com/Alien-Alfa)
 - [`DGXeon`](https://github.com/DGXeon)
 - [`AflahXrd`](https://github.com/nexusNw)
